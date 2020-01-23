@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Leap Year Check_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This app verify a leap year, Jan.23.2020_
 
 #### By _**{List of contributors}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_Using a simple input form this app will take in a user submitted year and return a true or false statment_
 
 ## Setup/Installation Requirements
 
