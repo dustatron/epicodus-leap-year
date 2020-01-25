@@ -1,6 +1,6 @@
 # _Leap Year Check_
 
-#### _This app verify a leap year, Jan.23.2020_
+#### _This app will verify a leap year, Jan.23.2020_
 
 #### By _**Dusty McCord and Josh Hellman**_
 
