@@ -7,7 +7,8 @@
 ## Description
 
 _This simple app will allow a user to enter in a year and test it to see if it is a leap year_
-[Demo site here](https://dustatron.github.io/epicodus-leap-year/)
+
+[link to demo site here](https://dustatron.github.io/epicodus-leap-year/)
 
 ## Setup/Installation Requirements
 
