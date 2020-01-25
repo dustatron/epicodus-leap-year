@@ -2,36 +2,48 @@
 
 #### _This app verify a leap year, Jan.23.2020_
 
-#### By _**{List of contributors}**_
+#### By _**Dusty McCord and Josh Hellman**_
 
 ## Description
 
-_Using a simple input form this app will take in a user submitted year and return a true or false statment_
+_This simple app will allow a user to enter in a year and test it to see if it is a leap year_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+_Make sure you have [git version control](https://git-scm.com/downloads) installed on your computer._
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+1. find the green 'Clone or Download' button and copy the link
+2. open terminal and type...
 
-## Known Bugs
+**Windows**
+```sh 
+cd desktop
+```
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+ Mac & linux 
+ ```sh
+ cd ~/Desktop
+ ```
+
+ 3. in terminal type '_git clone {link to repository}_ '
+
+```sh
+git clone 
+```
+
+4. navigate to the new folder that was created on your desk
+5. select index.html
+6. right click and select open with
+7. select your browser
+8. enjoy a leap year app
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Use at your own risk_
 
-## Technologies Used
-
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Dusty McCord_**
