@@ -28,7 +28,7 @@ cd desktop
  3. in terminal type '_git clone {link to repository}_ '
 
 ```sh
-git clone 
+git clone https://github.com/dustatron/epicodus-leap-year.git
 ```
 
 4. navigate to the new folder that was created on your desk
